@@ -4,19 +4,6 @@ I'm an **AI Engineer** specialized in deep learning, automation, and building in
 
 ---
 
-## 🚀 Featured Projects
-
-- **🧩 [Sudoku Solver with CNN](https://github.com/jsboigeEPF/Sudoku-MSMIN5IN43-Min1)**  
-  Deep learning project leveraging Convolutional Neural Networks to automatically solve Sudoku puzzles from images — digit recognition, grid extraction, and robust inference using PyTorch.
-
-- **🤖 [Recaptcha V3 Solver (AI Agent)](https://github.com/EtienneGG27/ProjetCaptchaIA)**  
-  Advanced AI agent combining LLMs and computer vision techniques to resolve Recaptcha V3 challenges. Focus on automation, adversarial examples, and multi-modal synergy.
-
-- **🏥 [Medical Assistant (RAG, LangChain, Gradio, Mistral 7B)](https://github.com/EvAn1712/medical-assistant-rag)**  
-  Intelligent assistant for healthcare, built with Retrieval-Augmented Generation (RAG), LangChain, Gradio, and Mistral 7B — answers medical questions and enriches consultations.
-
----
-
 ## 💻 Tech Stack
 
 **Languages & Frameworks**  
@@ -52,16 +39,22 @@ I'm an **AI Engineer** specialized in deep learning, automation, and building in
 
 ---
 
-## 📌 Pinned Repositories
+## 🚀 Featured Projects
 
-[See my pinned projects on my GitHub profile →](https://github.com/EvAn1712)
+- **🧩 [Sudoku Solver with CNN](https://github.com/jsboigeEPF/Sudoku-MSMIN5IN43-Min1)**  
+  Deep learning project leveraging Convolutional Neural Networks to automatically solve Sudoku puzzles from images — digit recognition, grid extraction, and robust inference using PyTorch.
+
+- **🤖 [Recaptcha V3 Solver (AI Agent)](https://github.com/EtienneGG27/ProjetCaptchaIA)**  
+  Advanced AI agent combining LLMs and computer vision techniques to resolve Recaptcha V3 challenges. Focus on automation, adversarial examples, and multi-modal synergy.
+
+- **🏥 [Medical Assistant (RAG, LangChain, Gradio, Mistral 7B)]()**  
+  Intelligent assistant for healthcare, built with Retrieval-Augmented Generation (RAG), LangChain, Gradio, and Mistral 7B — answers medical questions and enriches consultations.
 
 ---
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/evan-chinnaya/)
-- Email: evan.chinnaya@epfedu.fr
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-chinnaya/)
 
 ---
 
